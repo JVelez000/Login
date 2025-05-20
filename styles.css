@@ -62,7 +62,7 @@ button {
 }
 
 button:hover {
-  background: #cc00cc;
+  background: rgb(3, 255, 255);
 }
 
 p {
